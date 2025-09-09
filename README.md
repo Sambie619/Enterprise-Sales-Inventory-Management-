@@ -53,7 +53,7 @@ This project covers **Database Design, DML, Views, Triggers, Stored Procedures, 
 ---
 
 ## 📊 ER Diagram
-![ER Diagram](diagrams/er_diagram.png)  
+![ER Diagram](https://github.com/Sambie619/Enterprise-Sales-Inventory-Management-/blob/main/ERDiagram.png)  
 *(Exported from dbdiagram.io / SQL Developer)*
 
 ---
